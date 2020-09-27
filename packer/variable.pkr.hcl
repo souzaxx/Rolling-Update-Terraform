@@ -1,0 +1,3 @@
+variable "color" {
+  default = "red"
+}
